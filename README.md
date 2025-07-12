@@ -93,7 +93,7 @@ http://localhost:5000
 
 -    You can later add format selectors (e.g., MP3, 720p) or platform-specific logic (e.g., TikTok login).
 
--    This uses Flask's development server — for production, use Gunicorn or uWSGI.
+-    This uses Flask's development server for production, use Gunicorn or uWSGI.
 
 ## Production Usage
 
